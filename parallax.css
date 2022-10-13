@@ -1,0 +1,53 @@
+body,html{
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+.pic1{
+    background: url("https://p4.wallpaperbetter.com/wallpaper/718/973/306/cats-tongue-out-animals-mammals-kittens-hd-wallpaper-preview.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 100%;
+    
+    
+}
+.text1{
+  color: white;
+  position: absolute;
+  left: 0;
+  top: 50%;
+  width: 100%;
+  text-align: center;
+  
+}
+.centertext{
+  text-align: center;
+  background-color: black;
+  border: solid 1px black;
+  padding-top: 30%;
+  color: white;
+  
+}
+.pic2{
+  background: url("https://i.pinimg.com/474x/66/4c/df/664cdf58c22a0b5c7a0afc4d3ed4c143.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100%;
+  
+  
+}
+.text2{
+  position: absolute;
+  left: 0;
+  top: 220%;
+  width: 100%;
+  text-align: center;
+  color: white;
+  
+}
